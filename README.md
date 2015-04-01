@@ -11,6 +11,8 @@ For this project, you will be creating a level as part of a production team! You
 4.	Explanation of work breakdown between team members
 5.	Present the playable level to the class
 
+Your Finished Playable Level should incorporate many elements of level design, such as Meshes, Textures, Lighting. If you exclude one or more of these, there must be a *good reason* based on your design of aesthetic for the game.
+
 ###Due Dates
 | Date      |  Assignment
 |-----------|-------------
