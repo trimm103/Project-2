@@ -6,22 +6,19 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     1480 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Photon3Unity3D.dll (this message is harmless)
-Loading C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\llani100\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
 - Completed reload, in  0.042 seconds
 desktop: 1280x1024 60Hz; virtual: 2560x1024 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\System.Core.dll (this message is harmless)
-WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
-Platform assembly: C:\Users\trimm103\Desktop\Project-2\Assets\Hallway-Unity\build_Data\Managed\Boo.Lang.dll (this message is harmless)
