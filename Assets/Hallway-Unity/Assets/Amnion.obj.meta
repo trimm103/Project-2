@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 32986c14b9339814e9d83dff170720ad
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 00_amnionchrd_mat
+    100002: 01_amnionbody_mat
+    100004: 02_amnionhead_mat
+    100006: 03_amnionlegs_mat
+    100008: 04_amnionchair_mat
+    100010: 05_amnionbody_mat
+    100012: 06_amnionhead_mat
+    100014: 07_amnionlegs_mat
+    100016: 08_amnionchair_mat
+    100018: 09_amnionlegs_mat
+    100020: 10_amnionlegs_mat
+    100022: 11_amnionlegs_mat
+    100024: 12_amnionchair_mat
+    100026: 13_amnionchair_mat
+    100028: //RootNode
+    400000: 00_amnionchrd_mat
+    400002: 01_amnionbody_mat
+    400004: 02_amnionhead_mat
+    400006: 03_amnionlegs_mat
+    400008: 04_amnionchair_mat
+    400010: 05_amnionbody_mat
+    400012: 06_amnionhead_mat
+    400014: 07_amnionlegs_mat
+    400016: 08_amnionchair_mat
+    400018: 09_amnionlegs_mat
+    400020: 10_amnionlegs_mat
+    400022: 11_amnionlegs_mat
+    400024: 12_amnionchair_mat
+    400026: 13_amnionchair_mat
+    400028: //RootNode
+    2300000: 00_amnionchrd_mat
+    2300002: 01_amnionbody_mat
+    2300004: 02_amnionhead_mat
+    2300006: 03_amnionlegs_mat
+    2300008: 04_amnionchair_mat
+    2300010: 05_amnionbody_mat
+    2300012: 06_amnionhead_mat
+    2300014: 07_amnionlegs_mat
+    2300016: 08_amnionchair_mat
+    2300018: 09_amnionlegs_mat
+    2300020: 10_amnionlegs_mat
+    2300022: 11_amnionlegs_mat
+    2300024: 12_amnionchair_mat
+    2300026: 13_amnionchair_mat
+    3300000: 00_amnionchrd_mat
+    3300002: 01_amnionbody_mat
+    3300004: 02_amnionhead_mat
+    3300006: 03_amnionlegs_mat
+    3300008: 04_amnionchair_mat
+    3300010: 05_amnionbody_mat
+    3300012: 06_amnionhead_mat
+    3300014: 07_amnionlegs_mat
+    3300016: 08_amnionchair_mat
+    3300018: 09_amnionlegs_mat
+    3300020: 10_amnionlegs_mat
+    3300022: 11_amnionlegs_mat
+    3300024: 12_amnionchair_mat
+    3300026: 13_amnionchair_mat
+    4300000: 00_amnionchrd_mat
+    4300002: 01_amnionbody_mat
+    4300004: 02_amnionhead_mat
+    4300006: 03_amnionlegs_mat
+    4300008: 04_amnionchair_mat
+    4300010: 05_amnionbody_mat
+    4300012: 06_amnionhead_mat
+    4300014: 07_amnionlegs_mat
+    4300016: 08_amnionchair_mat
+    4300018: 09_amnionlegs_mat
+    4300020: 10_amnionlegs_mat
+    4300022: 11_amnionlegs_mat
+    4300024: 12_amnionchair_mat
+    4300026: 13_amnionchair_mat
+    6400000: 00_amnionchrd_mat
+    6400002: 01_amnionbody_mat
+    6400004: 02_amnionhead_mat
+    6400006: 03_amnionlegs_mat
+    6400008: 04_amnionchair_mat
+    6400010: 05_amnionbody_mat
+    6400012: 06_amnionhead_mat
+    6400014: 07_amnionlegs_mat
+    6400016: 08_amnionchair_mat
+    6400018: 09_amnionlegs_mat
+    6400020: 10_amnionlegs_mat
+    6400022: 11_amnionlegs_mat
+    6400024: 12_amnionchair_mat
+    6400026: 13_amnionchair_mat
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
