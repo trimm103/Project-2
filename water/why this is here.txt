@@ -1,0 +1,1 @@
+unity would not run with this file in assets.
