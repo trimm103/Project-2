@@ -19,6 +19,7 @@ function Start () {
 function OnTriggerEnter (other : Collider) {
 
 	entertrigger = true;
+	GameObject.Find("Player").GetComponent(CharacterMotor).enabled = false;
 }
 
 
@@ -30,6 +31,7 @@ function Update () {
 		makehimscream ();
 		
 	}
+	
 }
 
 
@@ -39,7 +41,9 @@ function removeovertime () {
 	yield WaitForSeconds (1.5);
 	face.renderer.enabled = false;
 	Destroy(face);
-	Application.Quit();
+	GameObject.Find("Player").GetComponent(CharacterMotor).enabled = true;
+	Destroy(this);
+
 	
 }
 
