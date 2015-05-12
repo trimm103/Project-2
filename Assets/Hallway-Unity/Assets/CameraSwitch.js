@@ -1,4 +1,9 @@
 ﻿#pragma strict
+var pepe1 : GameObject;
+var pepe2 : GameObject;
+var pepe3 : GameObject;
+var pepe4 : GameObject;
+var pepe5 : GameObject;
 
 var camera1 : Camera;
 var camera2 : Camera;
@@ -35,6 +40,14 @@ function OnTriggerEnter (other : Collider) {
 	yield WaitForSeconds (2.9);
 	cameraAnim.enabled = false;
 	audio.PlayOneShot(sound2);
+	GameObject.Find("CinematicCamera").GetComponent(FadeOut).enabled = false;
+	
+	pepe1.renderer.enabled = true;
+	pepe2.renderer.enabled = true;
+	pepe3.renderer.enabled = true;
+	pepe4.renderer.enabled = true;
+	pepe5.renderer.enabled = true;
+
 	
 
 }
